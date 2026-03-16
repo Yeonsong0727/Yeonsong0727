@@ -52,8 +52,8 @@
 ### Domestic Conferences
 - **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, **Trustworthy Deep Learning Training Data Management Using Hedera**, **The Institute of Electronics and Information Engineers (IEIE) Fall Conference**, 2024.
 - **Yeonsong Suh**, Yoonseo Chung, Eunsung Roh, Younghoon Park, **Reliable AI Training Data Management Using Hedera**, **Conference on Electronics, Semiconductors, and Artificial Intelligence**, 2024.
-- **Yeonsong Suh**, Younghoon Park, **Optimized Quantum Circuit Design for the Choice (Ch) and Majority (Maj) Processes of the SHA-256 Hash Function**, **KICS Winter Conference**, 2025.
-- **Yeonsong Suh**, Younghoon Park, **Optimized Design of SHA-3 Using Reversible Quantum Circuits**, **KICS Summer Conference**, 2025.
+- - **Yeonsong Suh**, Younghoon Park, **Optimized Design of SHA-3 Using Reversible Quantum Circuits**, **KICS Summer Conference**, 2025.
+- **Yeonsong Suh**, Younghoon Park, **Optimized Quantum Circuit Design for the Choice (Ch) and Majority (Maj) Processes of the SHA-256 Hash Function**, **KICS Fall Conference**, 2025.
 
 ### International Conferences & Journals
 - **Yeonsong Suh**, Younghoon Park, *Multicast for Secure AI Data Transmission in VANET with Hashgraph*, **ICGHIT 2024**.
