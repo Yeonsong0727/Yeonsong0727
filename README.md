@@ -16,7 +16,7 @@
 - SHA-256 / SHA-3
 - Quantum Computing
 - Post-Quantum Cryptography (PQC)
-- Quantum Neural Networks (QNN)
+- Quantum Neural Network (QNN)
 
 ---
 
