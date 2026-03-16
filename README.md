@@ -6,6 +6,7 @@
 <p align="center">
   <a href="yeonsongsuh@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/yeonsongsuh"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0008-1614-7644"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
 </p>
 
 --- 
