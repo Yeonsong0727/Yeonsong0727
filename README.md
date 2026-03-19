@@ -45,6 +45,9 @@
 
 - **COSS Supporters**  
   *Apr. 2023 – Feb. 2024*
+  
+- **SOLUX(Sookmyung Programming Club), 27th**  
+  *Apr. 2023 – Feb. 2024*
 
 ---
 
