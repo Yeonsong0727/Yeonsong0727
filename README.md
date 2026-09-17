@@ -40,65 +40,49 @@
 
 ### Hedera Hashgraph 기반 AI 학습데이터 무결성 검증
 - 자율주행 AI 학습데이터의 위·변조를 검증하기 위해 **Hedera Hashgraph 기반 데이터 무결성 관리 구조**를 설계
-- 학습데이터의 해시값을 분산원장에 기록하고 **Smart Contract를 통해 학습 전 데이터 무결성을 자동 검증**
-- CARLA 시뮬레이터 기반으로 검증하고 Ethereum 방식과 성능을 비교했으며, 연구 결과를 **Applied Sciences (SCI), 2025**에 게재
+- 학습데이터의 해시값을 분산원장에 기록하고 **Smart Contract를 통해 모델 학습 전 데이터 무결성을 자동 검증**
+- CARLA 시뮬레이터를 활용해 시스템을 검증하고 Ethereum 기반 방식과 성능을 비교했으며, 연구 결과를 **Applied Sciences, 2025**에 게재
 
 ### SHA-3 기반 가역 양자 회로 최적화
 - SHA-3 θ 연산에서 발생하는 보조 큐빗 자원 소모를 줄이기 위한 **가역 양자 회로**를 설계
-- θ와 θ⁻¹을 함께 구현해 연산 후 보조 큐빗을 초기 상태로 복원하도록 구성
-- 기존 연구 대비 CNOT gate 수를 줄이면서 **보조 큐빗 100% 재사용**을 달성했으며, **ICUFN 2025**에서 발표
+- θ와 θ⁻¹을 함께 구현해 연산 후 보조 큐빗을 초기 상태로 복원할 수 있도록 구성
+- θ 연산을 **4,800 CNOT gates**로 구현하면서 사용한 보조 큐빗을 모두 재사용할 수 있는 구조를 제안했으며, **ICUFN 2025**에서 발표
 
 ### Bitcoin 고속 채굴을 위한 양자 회로 설계
 - 기존 Grover 기반 Bitcoin mining의 **32-bit Nonce 탐색 공간과 반복 연산 구조**를 개선
 - Nonce, Extra Nonce, Timestamp를 결합해 탐색 공간을 **2^76**으로 확장하고 classical–quantum 전환을 줄이는 구조를 설계
-- **Big Step algorithm의 Γ operator**를 적용해 반복적인 Grover 연산을 단일 단계로 전환하고 gate count, circuit depth, ancilla qubit 요구량을 비교 분석
-
----
-
-## 💼 Academic & Leadership Experience
-
-- **Vice President, Basic Engineering Student Council**  
-  *Mar. 2021 – Mar. 2022*
-
-- **SBS (Sookmyung Women's Broadcasting System), 55th Cohort**  
-  *Apr. 2021 – Feb. 2023*
-
-- **COSS Supporters**  
-  *Apr. 2023 – Feb. 2024*
-  
-- **SOLUX(Sookmyung Programming Club), 27th**  
-  *Apr. 2023 – Feb. 2024*
+- **Big Step algorithm의 Γ operator**를 적용해 반복적인 Grover iteration을 단일 단계 구조로 전환하고 gate count, circuit depth, ancilla qubit 요구량을 비교 분석
 
 ---
 
 ## 📚 Publications
 
-† Presented by Yeonsong Suh
-
 ### Domestic Conferences
-- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Trustworthy Deep Learning Training Data Management Using Hedera*, **The Institute of Electronics and Information Engineers (IEIE) Fall Conference**, 2024. †
+- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Trustworthy Deep Learning Training Data Management Using Hedera*, **The Institute of Electronics and Information Engineers (IEIE) Fall Conference**, 2024.
 - **Yeonsong Suh**, Yoonseo Chung, Eunsung Roh, Younghoon Park, *Reliable AI Training Data Management Using Hedera*, **Conference on Electronics, Semiconductors, and Artificial Intelligence**, 2024.
-- **Yeonsong Suh**, Younghoon Park, *Optimized Design of SHA-3 Using Reversible Quantum Circuits*, **KICS Summer Conference**, 2025. †
-- **Yeonsong Suh**, Younghoon Park, *Optimized Quantum Circuit Design for the Choice (Ch) and Majority (Maj) Processes of the SHA-256 Hash Function*, **KICS Fall Conference**, 2025. †
-- **Yeonsong Suh**, Younghoon Park, *Design of Quantum Circuit for Fast Mining in Bitcoin*, **KICS Summer Conference**, 2026. †
+- **Yeonsong Suh**, Younghoon Park, *Optimized Design of SHA-3 Using Reversible Quantum Circuits*, **KICS Summer Conference**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Optimized Quantum Circuit Design for the Choice (Ch) and Majority (Maj) Processes of the SHA-256 Hash Function*, **KICS Fall Conference**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Design of Quantum Circuit for Fast Mining in Bitcoin*, **KICS Summer Conference**, 2026.
 
 ### International Conferences & Journals
-- **Yeonsong Suh**, Younghoon Park, *Multicast for Secure AI Data Transmission in VANET with Hashgraph*, **ICGHIT**, 2024. †
-- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Reliable Deep Learning Training Data Management Scheme using Hedera Hashgraph*, **ICGHIT**, 2025. †
-- **Yeonsong Suh**, Younghoon Park, *Resource-Efficient Reversible Quantum Circuit for Theta Function in SHA-3*, **ICUFN**, 2025. †
+- **Yeonsong Suh**, Younghoon Park, *Multicast for Secure AI Data Transmission in VANET with Hashgraph*, **ICGHIT**, 2024.
+- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Reliable Deep Learning Training Data Management Scheme using Hedera Hashgraph*, **ICGHIT**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Resource-Efficient Reversible Quantum Circuit for Theta Function in SHA-3*, **ICUFN**, 2025.
 - **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *AI Training Data Management for Reliable Autonomous Vehicles using Hashgraph*, **Applied Sciences (SCI)**, 2025.
-- **Yeonsong Suh**, Younghoon Park, *Enhanced Quantum-Based Mining Strategy for Bitcoin*, **ICGHIT**, 2026. †
-- **Yeonsong Suh**, Younghoon Park, *Enhancing Bitcoin Mining Using Quantum Search Space Expansion and Non-Unitary Operator*, **ICUFN**, 2026. †
+- **Yeonsong Suh**, Younghoon Park, *Enhanced Quantum-Based Mining Strategy for Bitcoin*, **ICGHIT**, 2026.
+- **Yeonsong Suh**, Younghoon Park, *Enhancing Bitcoin Mining Using Quantum Search Space Expansion and Non-Unitary Operator*, **ICUFN**, 2026.
 
 ---
 
 ## 🌏 International Conference Presentations
 
-- **ICGHIT 2024** — Hashgraph-based Secure AI Data Transmission
-- **ICGHIT 2025** — Hedera Hashgraph-based AI Training Data Integrity
-- **ICUFN 2025** — Reversible Quantum Circuit for SHA-3
-- **ICGHIT 2026** — Quantum-based Bitcoin Mining
-- **ICUFN 2026** — Quantum Search Space Expansion for Bitcoin Mining
+All presentations below were delivered by **Yeonsong Suh**.
+
+- **ICGHIT 2024** — *Multicast for Secure AI Data Transmission in VANET with Hashgraph*
+- **ICGHIT 2025** — *Reliable Deep Learning Training Data Management Scheme using Hedera Hashgraph*
+- **ICUFN 2025** — *Resource-Efficient Reversible Quantum Circuit for Theta Function in SHA-3*
+- **ICGHIT 2026** — *Enhanced Quantum-Based Mining Strategy for Bitcoin*
+- **ICUFN 2026** — *Enhancing Bitcoin Mining Using Quantum Search Space Expansion and Non-Unitary Operator*
 
 ---
 
@@ -133,6 +117,23 @@
 - Melon·Spotify의 **800곡 데이터**를 분석해 음악 특성과 감정 태그 구축
 - 감정 태그를 기반으로 사용자에게 음악을 추천하는 시스템 공동 개발
 - AWS 환경에서 서비스 배포 경험
+
+---
+
+## 💼 Academic & Leadership Experience
+
+- **COSS Supporters**  
+  *Apr. 2023 – Feb. 2024*
+
+- **SOLUX (Sookmyung Programming Club), 27th Cohort**  
+  *Apr. 2023 – Feb. 2024*
+
+- **SBS (Sookmyung Women's Broadcasting System), 55th Cohort**  
+  *Apr. 2021 – Feb. 2023*  
+  *Vice Director*
+
+- **Vice President, Basic Engineering Student Council**  
+  *Mar. 2021 – Mar. 2022*
 
 ---
 
