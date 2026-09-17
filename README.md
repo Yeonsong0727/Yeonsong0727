@@ -22,20 +22,6 @@
 
 ---
 
-## 🎓 Education
-
-- **Sookmyung Women’s University**  
-  **B.S. in Information Technology Engineering**  
-  **B.S. in Big Data Engineering (Double Major)**  
-  **Minor in Business Administration**  
-  *Mar. 2021 – Feb. 2025*
-
-- **Sookmyung Women’s University**  
-  **M.S. in Computer Science**  
-  *Mar. 2025 – Present*
-
----
-
 ## 🔬 Research Experience
 
 **Undergraduate Researcher, Computer Security Lab**  
@@ -58,6 +44,20 @@
 - 기존 Grover 기반 Bitcoin mining의 **32-bit Nonce 탐색 공간과 반복 연산 구조**를 개선
 - Nonce, Extra Nonce, Timestamp를 결합해 탐색 공간을 **2^76**으로 확장하고 classical–quantum 전환을 줄이는 구조를 설계
 - **Big Step algorithm의 Γ operator**를 적용해 반복적인 Grover iteration을 단일 단계 구조로 전환하고 gate count, circuit depth, ancilla qubit 요구량을 비교 분석
+
+---
+
+## 🎓 Education
+
+- **Sookmyung Women’s University**  
+  **B.S. in Information Technology Engineering**  
+  **B.S. in Big Data Engineering (Double Major)**  
+  **Minor in Business Administration**  
+  *Mar. 2021 – Feb. 2025*
+
+- **Sookmyung Women’s University**  
+  **M.S. in Computer Science**  
+  *Mar. 2025 – Present*
 
 ---
 
