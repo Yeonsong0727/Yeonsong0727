@@ -38,6 +38,12 @@
 
 ## 🔬 Research Experience
 
+**Undergraduate Researcher, Computer Security Lab**  
+*Sookmyung Women's University | Jul. 2023 – Feb. 2025*
+
+**M.S. Researcher, Computer Security Lab**  
+*Sookmyung Women's University | Mar. 2025 – Present*
+
 ### Hedera Hashgraph 기반 AI 학습데이터 무결성 검증
 - 자율주행 AI 학습데이터의 위·변조를 검증하기 위해 **Hedera Hashgraph 기반 데이터 무결성 관리 구조**를 설계
 - 학습데이터의 해시값을 분산원장에 기록하고 **Smart Contract를 통해 모델 학습 전 데이터 무결성을 자동 검증**
@@ -122,17 +128,20 @@ All presentations below were delivered by **Yeonsong Suh**.
 
 ## 💼 Academic & Leadership Experience
 
-- **COSS Supporters**  
+- **빅데이터 혁신융합대학사업단(COSS) 서포터즈**  
   *Apr. 2023 – Feb. 2024*
 
-- **SOLUX (Sookmyung Programming Club), 27th Cohort**  
+- **IT공학전공 학생회 홍보복지부 차장/부장**  
+  *Mar. 2023 – Feb. 2024*
+
+- **숙명여자대학교 프로그래밍 동아리 SOLUX 27기**  
   *Apr. 2023 – Feb. 2024*
 
-- **SBS (Sookmyung Women's Broadcasting System), 55th Cohort**  
+- **숙명여자대학교 교육방송국 SBS 55기**  
   *Apr. 2021 – Feb. 2023*  
-  *Vice Director*
+  *부국장 & 오디오팀장*
 
-- **Vice President, Basic Engineering Student Council**  
+- **기초공학부 학생회 부회장**  
   *Mar. 2021 – Mar. 2022*
 
 ---
