@@ -98,22 +98,22 @@ All presentations below were delivered by **Yeonsong Suh**.
 
 ## 💻 Projects
 
-### SONIC — Sign Language Education Web Service
+### SONIC — 수어 교육 웹서비스
 - MediaPipe 기반 실시간 손동작 인식과 **k-NN, LSTM**을 활용한 수어 교육 웹서비스 개발
 - 자/모음 및 단어 인식 정확도 **90% 이상** 달성
 - 퀴즈, 랭킹, 마이페이지를 포함한 사용자 학습 기능 설계
 
-### moonwalk — Weather-Based Running & Route Recommendation App
+### moonwalk — 날씨 기반 러닝·경로 추천 앱
 - **Google Maps API, OpenWeather API**를 활용한 날씨 기반 러닝 경로 추천 앱 개발
 - Android Studio와 Firebase를 활용해 회원 관리 및 커뮤니티 기능 구현
 - 실제 사용자 피드백을 기반으로 추천 및 사용 흐름 개선
 
-### Traffic Signal Optimization
+### 교차로 신호체계 최적화
 - AI Hub 교차로 데이터와 기상 데이터를 결합해 시간대별 보행자·교통량 분석
 - **Decision Tree**를 활용해 혼잡에 영향을 미치는 변수를 분석
 - 혼잡 시간대의 신호 주기 최적화 방안 제안
 
-### Music Recommendation System
+### 감정 태그 기반 음악 추천 시스템
 - Melon·Spotify의 **800곡 데이터**를 분석해 음악 특성과 감정 태그 구축
 - 감정 태그를 기반으로 사용자에게 음악을 추천하는 시스템 공동 개발
 - AWS 환경에서 서비스 배포 경험
@@ -146,6 +146,7 @@ All presentations below were delivered by **Yeonsong Suh**.
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white"/>
 </p>
 
 ### Programming Languages
@@ -162,6 +163,15 @@ All presentations below were delivered by **Yeonsong Suh**.
 <p>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM%20Quantum-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+</p>
+
+### Environment & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
