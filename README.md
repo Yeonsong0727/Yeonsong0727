@@ -17,7 +17,7 @@
 - Hashgraph & Consensus Mechanisms
 - Smart Contracts & Data Integrity
 - Cryptographic Hash Functions (SHA-256 / SHA-3)
-- Quantum Computing & Quantum Algorithms
+- Quantum Algorithms & Circuit Design
 - Quantum Computing for Blockchain
 
 ---
@@ -39,22 +39,19 @@
 ## 🔬 Research Experience
 
 ### Hedera Hashgraph 기반 AI 학습데이터 무결성 검증
-- 자율주행 AI 학습데이터의 위·변조를 검증하기 위해 **Hedera Hashgraph 기반 데이터 무결성 관리 구조**를 연구
-- 학습데이터의 해시값을 분산원장에 기록하고 **Smart Contract 기반 자동 검증 절차**를 설계
-- CARLA 시뮬레이터 데이터를 활용해 시스템을 검증하고 Ethereum 기반 방식과 성능 비교
-- 연구 결과를 **Applied Sciences (SCI), 2025**에 게재
+- 자율주행 AI 학습데이터의 위·변조를 검증하기 위해 **Hedera Hashgraph 기반 데이터 무결성 관리 구조**를 설계
+- 학습데이터의 해시값을 분산원장에 기록하고 **Smart Contract를 통해 학습 전 데이터 무결성을 자동 검증**
+- CARLA 시뮬레이터 기반으로 검증하고 Ethereum 방식과 성능을 비교했으며, 연구 결과를 **Applied Sciences (SCI), 2025**에 게재
 
 ### SHA-3 기반 가역 양자 회로 최적화
-- SHA-3의 θ 연산에서 사용되는 보조 큐빗의 자원 소모를 줄이기 위한 **가역 양자 회로** 연구
-- θ와 θ⁻¹ 연산을 함께 설계하여 사용한 보조 큐빗을 초기 상태로 복원하도록 구성
-- 기존 구조 대비 CNOT gate 수를 줄이면서 **보조 큐빗 100% 재사용이 가능한 회로**를 제안
-- 연구 결과를 **ICUFN 2025**에서 발표
+- SHA-3 θ 연산에서 발생하는 보조 큐빗 자원 소모를 줄이기 위한 **가역 양자 회로**를 설계
+- θ와 θ⁻¹을 함께 구현해 연산 후 보조 큐빗을 초기 상태로 복원하도록 구성
+- 기존 연구 대비 CNOT gate 수를 줄이면서 **보조 큐빗 100% 재사용**을 달성했으며, **ICUFN 2025**에서 발표
 
 ### Bitcoin 고속 채굴을 위한 양자 회로 설계
-- 기존 Grover 기반 Bitcoin mining의 제한된 탐색 공간과 반복 연산 문제를 개선하는 양자 채굴 구조 연구
-- **Nonce, Extra Nonce, Timestamp**를 결합해 탐색 공간을 \(2^{76}\)으로 확장
-- 반복적인 Grover diffusion 대신 **Big Step algorithm의 Γ operator**를 적용하여 oracle 실행을 단일 단계로 구성
-- Gate count, circuit depth, ancilla qubit 요구량을 기준으로 기존 구조와 비교 분석
+- 기존 Grover 기반 Bitcoin mining의 **32-bit Nonce 탐색 공간과 반복 연산 구조**를 개선
+- Nonce, Extra Nonce, Timestamp를 결합해 탐색 공간을 **2^76**으로 확장하고 classical–quantum 전환을 줄이는 구조를 설계
+- **Big Step algorithm의 Γ operator**를 적용해 반복적인 Grover 연산을 단일 단계로 전환하고 gate count, circuit depth, ancilla qubit 요구량을 비교 분석
 
 ---
 
@@ -92,6 +89,16 @@
 - **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *AI Training Data Management for Reliable Autonomous Vehicles using Hashgraph*, **Applied Sciences (SCI)**, 2025.
 - **Yeonsong Suh**, Younghoon Park, *Enhanced Quantum-Based Mining Strategy for Bitcoin*, **ICGHIT**, 2026. †
 - **Yeonsong Suh**, Younghoon Park, *Enhancing Bitcoin Mining Using Quantum Search Space Expansion and Non-Unitary Operator*, **ICUFN**, 2026. †
+
+---
+
+## 🌏 International Conference Presentations
+
+- **ICGHIT 2024** — Hashgraph-based Secure AI Data Transmission
+- **ICGHIT 2025** — Hedera Hashgraph-based AI Training Data Integrity
+- **ICUFN 2025** — Reversible Quantum Circuit for SHA-3
+- **ICGHIT 2026** — Quantum-based Bitcoin Mining
+- **ICUFN 2026** — Quantum Search Space Expansion for Bitcoin Mining
 
 ---
 
