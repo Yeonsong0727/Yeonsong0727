@@ -96,9 +96,9 @@ All presentations below were delivered by **Yeonsong Suh**.
 
 - **Best Paper Award**, **ICGHIT 2026**
 - **Best Paper Award**, **ICGHIT 2025**
-- **Grand Prize**, **CO-Data Station Datathon 2023**
-- **Encouragement Award**, **Monthly Big Data Campus Competition 2023**
-- **Excellence Award**, **Capstone Olympiad, The Korean Ceramic Society 2023**
+- **대상**, **CO-Data Station 데이터톤 2023**
+- **장려상**, **월간 빅데이터 캠퍼스 대회 2023**
+- **우수상**, **한국세라믹학회 캡스톤 올림피아드 2023**
 
 ---
 
