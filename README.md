@@ -97,17 +97,18 @@ All presentations below were delivered by **Yeonsong Suh**.
 - **Best Paper Award**, **ICGHIT 2026**
 - **Best Paper Award**, **ICGHIT 2025**
 - **대상**, **CO-Data Station 데이터톤 2023**
+- **장려상**, **KBO NINE 시즌 2023 — PLAN B(e the one)**
 - **장려상**, **월간 빅데이터 캠퍼스 대회 2023**
-- **우수상**, **한국세라믹학회 캡스톤 올림피아드 2023**
+- **우수상**, **한국세라믹학회 추계학술대회 캡스톤 올림피아드 2023**
 
 ---
 
 ## 💻 Projects
 
 ### SONIC — 수어 교육 웹서비스
-- MediaPipe 기반 실시간 손동작 인식과 **k-NN, LSTM**을 활용한 수어 교육 웹서비스 개발
-- 자/모음 및 단어 인식 정확도 **90% 이상** 달성
-- 퀴즈, 랭킹, 마이페이지를 포함한 사용자 학습 기능 설계
+- 3D 손 모델을 활용해 수어 학습과 실시간 피드백을 제공하는 웹서비스 개발 프로젝트 참여
+- **프론트엔드 담당**으로 퀴즈, 랭킹, 마이페이지 등 학습 화면과 사용자 흐름을 구현
+- 프로젝트에서는 MediaPipe와 **k-NN, LSTM** 기반 손동작 인식 기능을 적용해 자/모음 및 단어 인식 정확도 **90% 이상** 달성
 
 ### moonwalk — 날씨 기반 러닝·경로 추천 앱
 - **Google Maps API, OpenWeather API**를 활용한 날씨 기반 러닝 경로 추천 앱 개발
