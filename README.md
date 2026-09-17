@@ -55,19 +55,19 @@
 ## 🧪 Selected Research & Publications
 
 ### Domestic Conferences
-- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, **Trustworthy Deep Learning Training Data Management Using Hedera**, **The Institute of Electronics and Information Engineers (IEIE) Fall Conference**, 2024.
-- **Yeonsong Suh**, Yoonseo Chung, Eunsung Roh, Younghoon Park, **Reliable AI Training Data Management Using Hedera**, **Conference on Electronics, Semiconductors, and Artificial Intelligence**, 2024.
-- **Yeonsong Suh**, Younghoon Park, **Optimized Design of SHA-3 Using Reversible Quantum Circuits**, **KICS Summer Conference**, 2025.
-- **Yeonsong Suh**, Younghoon Park, **Optimized Quantum Circuit Design for the Choice (Ch) and Majority (Maj) Processes of the SHA-256 Hash Function**, **KICS Fall Conference**, 2025.
-- **Yeonsong Suh**, Younghoon Park, **Design of Quantum Circuit for Fast Mining in Bitcoin**, **KICS Summer Conference**, 2026.
+- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Trustworthy Deep Learning Training Data Management Using Hedera*, **The Institute of Electronics and Information Engineers (IEIE) Fall Conference**, 2024.
+- **Yeonsong Suh**, Yoonseo Chung, Eunsung Roh, Younghoon Park, *Reliable AI Training Data Management Using Hedera*, **Conference on Electronics, Semiconductors, and Artificial Intelligence**, 2024.
+- **Yeonsong Suh**, Younghoon Park, *Optimized Design of SHA-3 Using Reversible Quantum Circuits*, **KICS Summer Conference**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Optimized Quantum Circuit Design for the Choice (Ch) and Majority (Maj) Processes of the SHA-256 Hash Function*, **KICS Fall Conference**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Design of Quantum Circuit for Fast Mining in Bitcoin*, **KICS Summer Conference**, 2026.
 
 ### International Conferences & Journals
-- **Yeonsong Suh**, Younghoon Park, *Multicast for Secure AI Data Transmission in VANET with Hashgraph*, **ICGHIT 2024**.
-- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Reliable Deep Learning Training Data Management Scheme using Hedera Hashgraph*, **ICGHIT 2025**.
-- **Yeonsong Suh**, Younghoon Park, *Resource-Efficient Reversible Quantum Circuit for Theta Function in SHA-3*, **ICUFN 2025**.
-- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *AI Training Data Management for Reliable Autonomous Vehicles using Hashgraph*, *Applied Sciences (SCI)*, **2025**.
-- **Yeonsong Suh**, Younghoon Park, *Enhanced Quantum-Based Mining Strategy for Bitcoin*, **ICGHIT 2026**.
-- **Yeonsong Suh**, Younghoon Park, *Enhancing Bitcoin Mining Using Quantum Search Space Expansion and Non-Unitary Operator*, **ICUFN 2026**.
+- **Yeonsong Suh**, Younghoon Park, *Multicast for Secure AI Data Transmission in VANET with Hashgraph*, **ICGHIT**, 2024.
+- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *Reliable Deep Learning Training Data Management Scheme using Hedera Hashgraph*, **ICGHIT**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Resource-Efficient Reversible Quantum Circuit for Theta Function in SHA-3*, **ICUFN**, 2025.
+- **Yeonsong Suh**, Yoonseo Chung, Younghoon Park, *AI Training Data Management for Reliable Autonomous Vehicles using Hashgraph*, **Applied Sciences (SCI)**, 2025.
+- **Yeonsong Suh**, Younghoon Park, *Enhanced Quantum-Based Mining Strategy for Bitcoin*, **ICGHIT**, 2026.
+- **Yeonsong Suh**, Younghoon Park, *Enhancing Bitcoin Mining Using Quantum Search Space Expansion and Non-Unitary Operator*, **ICUFN**, 2026.
 
 ---
 
