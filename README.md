@@ -4,9 +4,19 @@
 </p>
 
 <p align="center">
+  <b>Yeonsong Suh</b><br/>
+  M.S. Researcher @ Computer Security Lab, Sookmyung Women's University
+</p>
+
+<p align="center">
+  Researching blockchain systems, data integrity, cryptographic hash functions,<br/>
+  and quantum algorithms for blockchain applications.
+</p>
+
+<p align="center">
   <a href="mailto:ys0727cookie6@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://orcid.org/0009-0008-1614-7644"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
-  <a href="https://github.com/yeonsongsuh"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Yeonsong0727"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 --- 
